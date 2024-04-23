@@ -1,11 +1,15 @@
 Group Name
+
 NYC Energy (East coast)
 
 Group Members
+
  Harrison(Team Lead),  Zaigham, Gayane, Emmanuel
 
 
 Background research
+
+As New York City aims to transition to renewable electricity by 2030, it is crucial to monitor and manage energy usage effectively. In 2022, renewable sources and nuclear power collectively supplied 51% of the city's total in-state energy consumption. New York City exhibits lower per capita energy consumption compared to most states, with particularly reduced energy usage in the transportation sector. 
 
 https://www.urbangreencouncil.org/new-york-citys-2020-energy-and-water-use-report/
 
@@ -17,9 +21,6 @@ https://energy.cusp.nyu.edu/#/
 
 https://www.sciencedirect.com/science/article/abs/pii/S2210670721007381
 
-
-
-As New York City aims to transition to renewable electricity by 2030, it is crucial to monitor and manage energy usage effectively. In 2022, renewable sources and nuclear power collectively supplied 51% of the city's total in-state energy consumption. New York City exhibits lower per capita energy consumption compared to most states, with particularly reduced energy usage in the transportation sector. 
 
 Problem Definition
 
