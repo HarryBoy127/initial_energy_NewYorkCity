@@ -6,10 +6,15 @@ Group Members
 
 
 Background research
+
 https://www.urbangreencouncil.org/new-york-citys-2020-energy-and-water-use-report/
+
 https://www.eia.gov/state/?sid=NY#tabs-1
+
 https://climate.cityofnewyork.us/subtopics/systems/
+
 https://energy.cusp.nyu.edu/#/
+
 https://www.sciencedirect.com/science/article/abs/pii/S2210670721007381
 
 
@@ -24,11 +29,14 @@ Value
  This project will help us to complete an analysis of energy usage in New York City. We will be able to determine how weather metrics such as humidity levels, wind speed and temperatures affect energy usage in the city. Given the size of the city and the amount of energy usage,  this analysis can help generate interesting insights that could be applied to similar urban centers across the world.
 
 Limitations
+
 ● data quality issues
+
 ● inaccurate information
 
 Solutions
 ● Data cleaning
+
 ● improved data structures 
 
 Datasets
