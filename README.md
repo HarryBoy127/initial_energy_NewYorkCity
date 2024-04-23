@@ -36,6 +36,7 @@ Limitations
 ● inaccurate information
 
 Solutions
+
 ● Data cleaning
 
 ● improved data structures 
